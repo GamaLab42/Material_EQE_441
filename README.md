@@ -5,8 +5,7 @@ O código para cálculo dos momentos e cinética de cristalização (utilizando 
 
 ```
 @article{doi:10.1021/acs.iecr.3c00739,
-author = {de
-Moraes, Marcellus Guedes Fernandes and Lima, Fernando Arrais Romero Dias and Lage, Paulo Laranjeira da Cunha and de Souza, Maurício B. Jr. and Barreto, Amaro Gomes Jr. and Secchi, Argimiro Resende},
+author = {Moraes, Marcellus Guedes Fernandes de and Lima, Fernando Arrais Romero Dias and Lage, Paulo Laranjeira da Cunha and de Souza, Maurício B. Jr. and Barreto, Amaro Gomes Jr. and Secchi, Argimiro Resende},
 title = {Modeling and Predictive Control of Cooling Crystallization of Potassium Sulfate by Dynamic Image Analysis: Exploring Phenomenological and Machine Learning Approaches},
 journal = {Industrial \& Engineering Chemistry Research},
 volume = {62},
